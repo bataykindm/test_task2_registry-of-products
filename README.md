@@ -9,5 +9,5 @@
 
 <b>Tools:</b> <em>Intellij IDEA, Postman</em>
 
-<b>Tools:</b> <em>More information about project you can get from README.pdf file.</em>
+<b>More information about project you can get from README.pdf file.</b>
 
